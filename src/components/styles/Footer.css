@@ -1,0 +1,23 @@
+.footer {
+    padding: 20px 8%;
+
+    background: #080808;
+
+    border-top: 1px solid #222222;
+
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+
+    color: #777777;
+
+    font-size: 0.85rem;
+}
+
+.footer span {
+    color: #ff6b00;
+
+    font-weight: 600;
+}
