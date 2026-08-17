@@ -60,6 +60,7 @@ src/
 ├── App.jsx
 ├── App.css
 └── index.js
+```
 
 ## Future Enhancements
 
